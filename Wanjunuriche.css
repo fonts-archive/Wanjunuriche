@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'Wanjunuriche';
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Wanjunuriche/Wanjunuriche.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/Wanjunuriche/Wanjunuriche.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/Wanjunuriche/Wanjunuriche.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/Wanjunuriche/Wanjunuriche.ttf') format('truetype');
+  font-family: 'Wanjunuriche';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Wanjunuriche/Wanjunuriche.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/Wanjunuriche/Wanjunuriche.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/Wanjunuriche/Wanjunuriche.otf') format('opentype'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/Wanjunuriche/Wanjunuriche.ttf') format('truetype');
 }
